@@ -122,5 +122,10 @@ The deployed Nutrition Agent provides:
 - Public nutrition datasets and OCR/CV resources
 
 ---
+## Cerificates 
+[Certificate of Intership Completion.pdf](https://github.com/user-attachments/files/22424819/Certificate.of.Completion.pdf)
+
+[Getting Started with Artificial Intelligence | IBMDesign.pdf](https://github.com/user-attachments/files/22424805/Getting.Started.with.Artificial.Intelligence.IBMDesign.pdf)
+[Journey to Cloud.pdf](https://github.com/user-attachments/files/22424808/Journey.to.Cloud.pdf)
 
 **Prepared by Harsh Suryavanshi — Nutrition Agent Project**
