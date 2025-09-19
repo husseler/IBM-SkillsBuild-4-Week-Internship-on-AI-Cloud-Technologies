@@ -21,7 +21,9 @@ The internship's primary goal is to provide hands-on experience in emerging tech
 ## 👨‍💻 Intern Details
 
 **Name:** Harsh Suryavanshi  
+
 **Institute:** Shri Govindram Seksaria Institute of Technology & Science, Indore — Information Technology
+
 **Duration** 4Weeks (15th July 2025 to 7th August 2025)
 
 ---
