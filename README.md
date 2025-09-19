@@ -125,9 +125,9 @@ The deployed Nutrition Agent provides:
 ## Cerificates 
 ![Certifications01](https://github.com/husseler/IBM-SkillsBuild-4-Week-Internship-on-AI-Cloud-Technologies/blob/main/Certifications/ICOC.png)
 
-![Certifications02](certifications/JTC.png)
+![Certifications02](https://github.com/husseler/IBM-SkillsBuild-4-Week-Internship-on-AI-Cloud-Technologies/blob/main/Certifications/GSWAI.png)
 
-![Certifications03](certifications/GSWAI.png)
+![Certifications03](https://github.com/husseler/IBM-SkillsBuild-4-Week-Internship-on-AI-Cloud-Technologies/blob/main/Certifications/JTC.png)
 
 
 
