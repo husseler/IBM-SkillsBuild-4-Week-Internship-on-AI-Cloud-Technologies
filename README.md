@@ -129,7 +129,7 @@ The deployed Nutrition Agent provides:
 
 ![Certifications03](https://github.com/husseler/IBM-SkillsBuild-4-Week-Internship-on-AI-Cloud-Technologies/blob/main/Certifications/GSWAI.png)
 
-
+![Certifications01](https://github.com/husseler/IBM-SkillsBuild-4-Week-Internship-on-AI-Cloud-Technologies/blob/main/Certifications/RAG_LAB.png)
 
 
 **Prepared by Harsh Suryavanshi — Nutrition Agent Project**
