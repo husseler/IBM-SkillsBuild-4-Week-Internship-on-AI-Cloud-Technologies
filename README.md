@@ -123,6 +123,11 @@ The deployed Nutrition Agent provides:
 
 ---
 ## Cerificates 
+![Certifications](certifications/ICOC.png)
+![Certifications](certifications/JTC.png)
+![Certifications](certifications/GSWAI.png)
+
+
 
 
 **Prepared by Harsh Suryavanshi — Nutrition Agent Project**
