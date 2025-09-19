@@ -123,9 +123,9 @@ The deployed Nutrition Agent provides:
 
 ---
 ## Cerificates 
-![Certifications](certifications/ICOC.png)
-![Certifications](certifications/JTC.png)
-![Certifications](certifications/GSWAI.png)
+![Certifications01](certifications/ICOC.png)
+![Certifications02](certifications/JTC.png)
+![Certifications03](certifications/GSWAI.png)
 
 
 
